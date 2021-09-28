@@ -1,0 +1,20 @@
+body {
+        background-color: rgb(163, 161, 61);
+}
+body > p{
+        background-color: lightblue;
+        display:grid;  
+        height: 40px;
+        width: 700px;
+        border-radius: 5px;
+        padding: 1px;
+        border-style: double ;
+        border-style: solid black; 
+        font-family: "Times New Roman", Times, serif; 
+        text-align: justify  ;
+        }
+
+h2{
+  display: flex;
+  justify-content: center;
+}
